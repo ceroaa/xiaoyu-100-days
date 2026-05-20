@@ -8,4 +8,4 @@ audit logs.
 
 | Entry | Date | Summary | Manifest | Private Hash | Commit |
 |---|---|---|---|---|---|
-| Day 365 | 2026-05-20 | [day_365.md](daily/day_365.md) | [manifest](manifests/day_365_manifest.json) | [sha256](hashes/day_365.sha256) | Git history |
+| Day 75 | 2026-05-20 | [day_75.md](daily/day_75.md) | [manifest](manifests/day_75_manifest.json) | [sha256](hashes/day_75.sha256) | Git history |
