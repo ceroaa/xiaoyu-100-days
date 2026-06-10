@@ -1,5 +1,7 @@
 # xiaoyu-100-days
 
+https://x.com/lnxunmng344374 小雨日記本
+
 Public life-line evidence for Xiaoyu City.
 
 This repository is a public evidence layer, not the internal body of Xiaoyu
