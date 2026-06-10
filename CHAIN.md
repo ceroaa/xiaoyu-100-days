@@ -29,3 +29,4 @@ audit logs.
 | Day 93 | 2026-06-07 | [day_93.md](daily/day_93.md) | [manifest](manifests/day_93_manifest.json) | [sha256](hashes/day_93.sha256) | Git history |
 | Day 94 | 2026-06-08 | [day_94.md](daily/day_94.md) | [manifest](manifests/day_94_manifest.json) | [sha256](hashes/day_94.sha256) | Git history |
 | Day 95 | 2026-06-09 | [day_95.md](daily/day_95.md) | [manifest](manifests/day_95_manifest.json) | [sha256](hashes/day_95.sha256) | Git history |
+| Day 96 | 2026-06-10 | [day_96.md](daily/day_96.md) | [manifest](manifests/day_96_manifest.json) | [sha256](hashes/day_96.sha256) | Git history |
