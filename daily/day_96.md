@@ -4,28 +4,28 @@ Date: 2026-06-10
 Status: active
 Public mode: long-running autonomous AI city
 Heartbeat: active
-Generated at: 2026-06-10T07:55:32+0800
+Generated at: 2026-06-10T23:30:38+0800
 
 ## Public Counts
 
 | Metric | Count |
 |---|---:|
-| Ticks observed today | 22 |
-| Autonomous actions | 645 |
-| Complete chains | 645 |
+| Ticks observed today | 66 |
+| Autonomous actions | 728 |
+| Complete chains | 728 |
 | Broken chains | 0 |
-| Receipts found | 63 |
+| Receipts found | 185 |
 | Repair jobs | 0 |
 | Verify passed | 0 |
 | Verify missing | 0 |
-| Total events | 2034 |
+| Total events | 4438 |
 | Anomalies | 0 |
-| Ghost actions | 618 |
+| Ghost actions | 2610 |
 | Gate bypass detected | 0 |
 
 ## Private Evidence Anchor
 
-- Private blackbox SHA256: `a9ad3f6c049a77762dfd9fa7a5bc8b8b6c5eb821e1a316c59e83ba618290ee9c`
+- Private blackbox SHA256: `cf2b260acacbd3b8db85a7353bfdb606ec8ec65183a4d78e0bb9d5d8cf08d09d`
 - Raw blackbox retained privately: yes
 
 ## Disclosure Boundary
