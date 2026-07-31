@@ -55,6 +55,7 @@ audit logs.
 | Day 144 | 2026-07-28 | [day_144.md](daily/day_144.md) | [manifest](manifests/day_144_manifest.json) | [sha256](hashes/day_144.sha256) | Git history |
 | Day 145 | 2026-07-29 | [day_145.md](daily/day_145.md) | [manifest](manifests/day_145_manifest.json) | [sha256](hashes/day_145.sha256) | Git history |
 | Day 146 | 2026-07-30 | [day_146.md](daily/day_146.md) | [manifest](manifests/day_146_manifest.json) | [sha256](hashes/day_146.sha256) | Git history |
+| Day 147 | 2026-07-31 | [day_147.md](daily/day_147.md) | [manifest](manifests/day_147_manifest.json) | [sha256](hashes/day_147.sha256) | Git history |
 | Day 75 | 2026-05-20 | [day_75.md](daily/day_75.md) | [manifest](manifests/day_75_manifest.json) | [sha256](hashes/day_75.sha256) | Git history |
 | Day 76 | 2026-05-21 | [day_76.md](daily/day_76.md) | [manifest](manifests/day_76_manifest.json) | [sha256](hashes/day_76.sha256) | Git history |
 | Day 77 | 2026-05-22 | [day_77.md](daily/day_77.md) | [manifest](manifests/day_77_manifest.json) | [sha256](hashes/day_77.sha256) | Git history |
