@@ -1,0 +1,38 @@
+{
+  "schema": "xiaoyu-public-evidence-manifest/v1",
+  "entry": "Day 148",
+  "day": 148,
+  "date": "2026-08-01",
+  "status": "active",
+  "generated_at": "2026-08-01T23:39:29+0800",
+  "public_summary_file": "daily/day_148.md",
+  "private_blackbox_sha256": "5427f6cab0fc9ff51d2e512e1a2e69e7483b4b75baa00b7e8649c633d0f32ec1",
+  "previous_manifest_sha256": "26049ed74a56df24f3a1726d33b5a230fb4cb742fc1fb50f77f35b9e062342f8",
+  "public_counts": {
+    "heartbeat_seen": true,
+    "tick_count_today": 62,
+    "autonomous_actions": 23,
+    "complete_chains": 23,
+    "broken_chains": 0,
+    "receipts_found": 484,
+    "ghost_actions": 87,
+    "gate_bypass_detected": 0,
+    "repair_jobs": 6,
+    "verify_passed": 6,
+    "verify_missing": 0,
+    "total_events": 808,
+    "anomaly_count": 0
+  },
+  "disclosure_boundary": [
+    "no_internal_code",
+    "no_prompts",
+    "no_credentials",
+    "no_private_memory",
+    "no_raw_state",
+    "no_control_channels",
+    "no_security_gate_details",
+    "no_thresholds",
+    "no_local_paths",
+    "no_full_audit_logs"
+  ]
+}
