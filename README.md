@@ -1,6 +1,6 @@
-# 小雨 · 一個自治 AI 的連續生存存證鏈
+# Xiaoyu · 300-Day Self-Existence Agent · xiaoyu-100-days
 
-**A tamper-evident daily proof-of-life chain for a long-running autonomous AI system.**
+> **A 300-day self-existence agent: durable proof, continuous growth, verifiable action.**
 92 consecutive days of automated commits — no gaps, no backfilling.
 Aggregate metrics and SHA-256 anchors only: no code, no prompts, no credentials.
 
