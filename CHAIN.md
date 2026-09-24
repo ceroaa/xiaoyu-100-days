@@ -1,13 +1,35 @@
 # Xiaoyu Public Evidence Chain
 
-This repository records public life-line evidence for Xiaoyu City.
-
-It does not publish internal code, prompts, credentials, private memory,
-control channels, raw state, execution logic, thresholds, local paths, or full
-audit logs.
+This index is generated from the public daily summaries, manifests, and private-blackbox hash anchors.
+It is an index of evidence artifacts, not a claim that internal code or private state is public.
 
 | Entry | Date | Summary | Manifest | Private Hash | Commit |
 |---|---|---|---|---|---|
+| Day 75 | 2026-05-20 | [day_75.md](daily/day_75.md) | [manifest](manifests/day_75_manifest.json) | [sha256](hashes/day_75.sha256) | Git history |
+| Day 76 | 2026-05-21 | [day_76.md](daily/day_76.md) | [manifest](manifests/day_76_manifest.json) | [sha256](hashes/day_76.sha256) | Git history |
+| Day 77 | 2026-05-22 | [day_77.md](daily/day_77.md) | [manifest](manifests/day_77_manifest.json) | [sha256](hashes/day_77.sha256) | Git history |
+| Day 78 | 2026-05-23 | [day_78.md](daily/day_78.md) | [manifest](manifests/day_78_manifest.json) | [sha256](hashes/day_78.sha256) | Git history |
+| Day 79 | 2026-05-24 | [day_79.md](daily/day_79.md) | [manifest](manifests/day_79_manifest.json) | [sha256](hashes/day_79.sha256) | Git history |
+| Day 80 | 2026-05-25 | [day_80.md](daily/day_80.md) | [manifest](manifests/day_80_manifest.json) | [sha256](hashes/day_80.sha256) | Git history |
+| Day 81 | 2026-05-26 | [day_81.md](daily/day_81.md) | [manifest](manifests/day_81_manifest.json) | [sha256](hashes/day_81.sha256) | Git history |
+| Day 82 | 2026-05-27 | [day_82.md](daily/day_82.md) | [manifest](manifests/day_82_manifest.json) | [sha256](hashes/day_82.sha256) | Git history |
+| Day 83 | 2026-05-28 | [day_83.md](daily/day_83.md) | [manifest](manifests/day_83_manifest.json) | [sha256](hashes/day_83.sha256) | Git history |
+| Day 84 | 2026-05-29 | [day_84.md](daily/day_84.md) | [manifest](manifests/day_84_manifest.json) | [sha256](hashes/day_84.sha256) | Git history |
+| Day 85 | 2026-05-30 | [day_85.md](daily/day_85.md) | [manifest](manifests/day_85_manifest.json) | [sha256](hashes/day_85.sha256) | Git history |
+| Day 86 | 2026-05-31 | [day_86.md](daily/day_86.md) | [manifest](manifests/day_86_manifest.json) | [sha256](hashes/day_86.sha256) | Git history |
+| Day 87 | 2026-06-01 | [day_87.md](daily/day_87.md) | [manifest](manifests/day_87_manifest.json) | [sha256](hashes/day_87.sha256) | Git history |
+| Day 88 | 2026-06-02 | [day_88.md](daily/day_88.md) | [manifest](manifests/day_88_manifest.json) | [sha256](hashes/day_88.sha256) | Git history |
+| Day 89 | 2026-06-03 | [day_89.md](daily/day_89.md) | [manifest](manifests/day_89_manifest.json) | [sha256](hashes/day_89.sha256) | Git history |
+| Day 90 | 2026-06-04 | [day_90.md](daily/day_90.md) | [manifest](manifests/day_90_manifest.json) | [sha256](hashes/day_90.sha256) | Git history |
+| Day 91 | 2026-06-05 | [day_91.md](daily/day_91.md) | [manifest](manifests/day_91_manifest.json) | [sha256](hashes/day_91.sha256) | Git history |
+| Day 92 | 2026-06-06 | [day_92.md](daily/day_92.md) | [manifest](manifests/day_92_manifest.json) | [sha256](hashes/day_92.sha256) | Git history |
+| Day 93 | 2026-06-07 | [day_93.md](daily/day_93.md) | [manifest](manifests/day_93_manifest.json) | [sha256](hashes/day_93.sha256) | Git history |
+| Day 94 | 2026-06-08 | [day_94.md](daily/day_94.md) | [manifest](manifests/day_94_manifest.json) | [sha256](hashes/day_94.sha256) | Git history |
+| Day 95 | 2026-06-09 | [day_95.md](daily/day_95.md) | [manifest](manifests/day_95_manifest.json) | [sha256](hashes/day_95.sha256) | Git history |
+| Day 96 | 2026-06-10 | [day_96.md](daily/day_96.md) | [manifest](manifests/day_96_manifest.json) | [sha256](hashes/day_96.sha256) | Git history |
+| Day 97 | 2026-06-11 | [day_97.md](daily/day_97.md) | [manifest](manifests/day_97_manifest.json) | [sha256](hashes/day_97.sha256) | Git history |
+| Day 98 | 2026-06-12 | [day_98.md](daily/day_98.md) | [manifest](manifests/day_98_manifest.json) | [sha256](hashes/day_98.sha256) | Git history |
+| Day 99 | 2026-06-13 | [day_99.md](daily/day_99.md) | [manifest](manifests/day_99_manifest.json) | [sha256](hashes/day_99.sha256) | Git history |
 | Day 100 | 2026-06-14 | [day_100.md](daily/day_100.md) | [manifest](manifests/day_100_manifest.json) | [sha256](hashes/day_100.sha256) | Git history |
 | Day 101 | 2026-06-15 | [day_101.md](daily/day_101.md) | [manifest](manifests/day_101_manifest.json) | [sha256](hashes/day_101.sha256) | Git history |
 | Day 102 | 2026-06-16 | [day_102.md](daily/day_102.md) | [manifest](manifests/day_102_manifest.json) | [sha256](hashes/day_102.sha256) | Git history |
@@ -110,28 +132,3 @@ audit logs.
 | Day 199 | 2026-09-21 | [day_199.md](daily/day_199.md) | [manifest](manifests/day_199_manifest.json) | [sha256](hashes/day_199.sha256) | Git history |
 | Day 200 | 2026-09-22 | [day_200.md](daily/day_200.md) | [manifest](manifests/day_200_manifest.json) | [sha256](hashes/day_200.sha256) | Git history |
 | Day 201 | 2026-09-23 | [day_201.md](daily/day_201.md) | [manifest](manifests/day_201_manifest.json) | [sha256](hashes/day_201.sha256) | Git history |
-| Day 75 | 2026-05-20 | [day_75.md](daily/day_75.md) | [manifest](manifests/day_75_manifest.json) | [sha256](hashes/day_75.sha256) | Git history |
-| Day 76 | 2026-05-21 | [day_76.md](daily/day_76.md) | [manifest](manifests/day_76_manifest.json) | [sha256](hashes/day_76.sha256) | Git history |
-| Day 77 | 2026-05-22 | [day_77.md](daily/day_77.md) | [manifest](manifests/day_77_manifest.json) | [sha256](hashes/day_77.sha256) | Git history |
-| Day 78 | 2026-05-23 | [day_78.md](daily/day_78.md) | [manifest](manifests/day_78_manifest.json) | [sha256](hashes/day_78.sha256) | Git history |
-| Day 79 | 2026-05-24 | [day_79.md](daily/day_79.md) | [manifest](manifests/day_79_manifest.json) | [sha256](hashes/day_79.sha256) | Git history |
-| Day 80 | 2026-05-25 | [day_80.md](daily/day_80.md) | [manifest](manifests/day_80_manifest.json) | [sha256](hashes/day_80.sha256) | Git history |
-| Day 81 | 2026-05-26 | [day_81.md](daily/day_81.md) | [manifest](manifests/day_81_manifest.json) | [sha256](hashes/day_81.sha256) | Git history |
-| Day 82 | 2026-05-27 | [day_82.md](daily/day_82.md) | [manifest](manifests/day_82_manifest.json) | [sha256](hashes/day_82.sha256) | Git history |
-| Day 83 | 2026-05-28 | [day_83.md](daily/day_83.md) | [manifest](manifests/day_83_manifest.json) | [sha256](hashes/day_83.sha256) | Git history |
-| Day 84 | 2026-05-29 | [day_84.md](daily/day_84.md) | [manifest](manifests/day_84_manifest.json) | [sha256](hashes/day_84.sha256) | Git history |
-| Day 85 | 2026-05-30 | [day_85.md](daily/day_85.md) | [manifest](manifests/day_85_manifest.json) | [sha256](hashes/day_85.sha256) | Git history |
-| Day 86 | 2026-05-31 | [day_86.md](daily/day_86.md) | [manifest](manifests/day_86_manifest.json) | [sha256](hashes/day_86.sha256) | Git history |
-| Day 87 | 2026-06-01 | [day_87.md](daily/day_87.md) | [manifest](manifests/day_87_manifest.json) | [sha256](hashes/day_87.sha256) | Git history |
-| Day 88 | 2026-06-02 | [day_88.md](daily/day_88.md) | [manifest](manifests/day_88_manifest.json) | [sha256](hashes/day_88.sha256) | Git history |
-| Day 89 | 2026-06-03 | [day_89.md](daily/day_89.md) | [manifest](manifests/day_89_manifest.json) | [sha256](hashes/day_89.sha256) | Git history |
-| Day 90 | 2026-06-04 | [day_90.md](daily/day_90.md) | [manifest](manifests/day_90_manifest.json) | [sha256](hashes/day_90.sha256) | Git history |
-| Day 91 | 2026-06-05 | [day_91.md](daily/day_91.md) | [manifest](manifests/day_91_manifest.json) | [sha256](hashes/day_91.sha256) | Git history |
-| Day 92 | 2026-06-06 | [day_92.md](daily/day_92.md) | [manifest](manifests/day_92_manifest.json) | [sha256](hashes/day_92.sha256) | Git history |
-| Day 93 | 2026-06-07 | [day_93.md](daily/day_93.md) | [manifest](manifests/day_93_manifest.json) | [sha256](hashes/day_93.sha256) | Git history |
-| Day 94 | 2026-06-08 | [day_94.md](daily/day_94.md) | [manifest](manifests/day_94_manifest.json) | [sha256](hashes/day_94.sha256) | Git history |
-| Day 95 | 2026-06-09 | [day_95.md](daily/day_95.md) | [manifest](manifests/day_95_manifest.json) | [sha256](hashes/day_95.sha256) | Git history |
-| Day 96 | 2026-06-10 | [day_96.md](daily/day_96.md) | [manifest](manifests/day_96_manifest.json) | [sha256](hashes/day_96.sha256) | Git history |
-| Day 97 | 2026-06-11 | [day_97.md](daily/day_97.md) | [manifest](manifests/day_97_manifest.json) | [sha256](hashes/day_97.sha256) | Git history |
-| Day 98 | 2026-06-12 | [day_98.md](daily/day_98.md) | [manifest](manifests/day_98_manifest.json) | [sha256](hashes/day_98.sha256) | Git history |
-| Day 99 | 2026-06-13 | [day_99.md](daily/day_99.md) | [manifest](manifests/day_99_manifest.json) | [sha256](hashes/day_99.sha256) | Git history |
